@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdilVK
+- 👋 Hi, I’m Adil
 - 👀 I’m interested in programming and security analysis.
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on ..
