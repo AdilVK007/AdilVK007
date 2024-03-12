@@ -25,6 +25,11 @@
 <a href="https://instagram.com/a_d_i_l_bin_azeeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_d_i_l_bin_azeez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtube.com/channel/ucnlxjdixr3tyz9axvrjoitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/ucnlxjdixr3tyz9axvrjoitw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/kKW5wK8WdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kKW5wK8WdA" height="30" width="40" /></a>
-<a href="adilvkvcl@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white" height="30" width="40" alt="adilvkvcl@gmail.com"  />
-</p>
+<!-- <a href="adilvkvcl@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white" height="30" width="40" alt="adilvkvcl@gmail.com"  />
+</p> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
