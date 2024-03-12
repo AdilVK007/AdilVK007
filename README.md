@@ -25,4 +25,5 @@
 <a href="https://instagram.com/a_d_i_l_bin_azeeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_d_i_l_bin_azeez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtube.com/channel/ucnlxjdixr3tyz9axvrjoitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/ucnlxjdixr3tyz9axvrjoitw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/kKW5wK8WdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kKW5wK8WdA" height="30" width="40" /></a>
+<a href="adilvkvcl@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="adilvkvcl@gmail.com"  />
 </p>
