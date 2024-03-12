@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
-- 📫 How to reach me **adilvkblog@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
