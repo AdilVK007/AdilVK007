@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Python, JavaScript, Node.js**
 
 - 🤝 I’m looking for help with **Python**
 
