@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adil</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0D89F1&random=false&width=435&lines=Hey+there+%F0%9F%91%8B+I+am+Adil" alt="Typing SVG" /></a><h1>
 <h3 align="center">Work for passions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilvk007&label=Profile%20views&color=0e75b6&style=flat" alt="adilvk007" /> </p>
