@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=0D89F1&random=false&width=435&lines=Hey+there+%F0%9F%91%8B+I+am+Adil" alt="Typing SVG" /></a><h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=0D89F1&random=false&width=435&lines=Hey+there+%F0%9F%91%8B+I+am+Adil" alt="Typing SVG" /><h1>
 <h3 align="center">Work for passions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilvk007&label=Profile%20views&color=0e75b6&style=flat" alt="adilvk007" /> </p>
