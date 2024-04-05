@@ -36,4 +36,4 @@
 </div>-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=AdilVK007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://streak-stats.demolab.com?user=AdilVK007&theme=github-dark" alt="GitHub Streak" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aAdilVK007&hide_progress=true)
