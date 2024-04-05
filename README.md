@@ -35,4 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdilVK007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdilVK007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=AdilVK007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://streak-stats.demolab.com?user=AdilVK007&theme=github-dark" alt="GitHub Streak" />
