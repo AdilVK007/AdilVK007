@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python, JavaScript, Node.js**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Node.js**
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
