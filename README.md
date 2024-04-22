@@ -2,6 +2,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231949742250922025/header.png?ex=6638d19b&is=66265c9b&hm=1a32570b5203ddce79ed7858792e1b6b6b02372448bc559bf92254b0907c141f&"></h1>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&pause=1000&color=0D89F1&random=false&width=435&lines=Hey+there+%F0%9F%91%8B+I+am+Adil" alt="Typing SVG" /><h1>
 <h3 align="center">Work for passions</h3>
+<h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231958270927700069/Github.png.jpg?ex=6638d98c&is=6626648c&hm=53d2c0feda3d8538ea21d54bb10fa8a306f8c640209a3dd14fab14241152003c&"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilvk007&label=Profile%20views&color=0e75b6&style=flat" alt="adilvk007" /> </p>
 
