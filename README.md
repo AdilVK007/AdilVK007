@@ -41,4 +41,4 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilVK007&show_icons=true&theme=dark)-->
 
-<h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231949742250922025/header.png?ex=6638d19b&is=66265c9b&hm=1a32570b5203ddce79ed7858792e1b6b6b02372448bc559bf92254b0907c141f&"></h1>
+<h1 align="center"><img src="https://media.discordapp.net/attachments/949884109549883403/1231950888055345232/footer.png?ex=6638d2ac&is=66265dac&hm=8820faf1b2b817f761577eda288cdf90894dbad96919ebf6be28e3dfba039fb6&=&format=webp&quality=lossless"></h1>
