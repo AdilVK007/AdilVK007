@@ -40,3 +40,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AdilVK007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://streak-stats.demolab.com?user=AdilVK007&theme=github-dark" alt="GitHub Streak" />
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilVK007&show_icons=true&theme=dark)-->
+
+<h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231949742250922025/header.png?ex=6638d19b&is=66265c9b&hm=1a32570b5203ddce79ed7858792e1b6b6b02372448bc559bf92254b0907c141f&"></h1>
