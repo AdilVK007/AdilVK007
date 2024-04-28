@@ -43,8 +43,3 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilVK007&show_icons=true&theme=dark)-->
 
 <h1 align="center"><img src="https://media.discordapp.net/attachments/949884109549883403/1231950888055345232/footer.png?ex=6638d2ac&is=66265dac&hm=8820faf1b2b817f761577eda288cdf90894dbad96919ebf6be28e3dfba039fb6&=&format=webp&quality=lossless"></h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/5Z5HvGStQU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5Z5HvGStQU" height="30" width="40" /></a>
-</p>
