@@ -4,9 +4,9 @@
 <h3 align="center">Work for passions</h3>
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231959022282735729/Github.png-removebg-preview.png?ex=6638da3f&is=6626653f&hm=ced0aa03de860f0405dc322e4ba718b4a4aadbc12d2c16ae16e819083c4c61dc&"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdilVK007&label=Profile%20views&color=0e75b6&style=flat" alt="AdilVK007" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdilVK007&label=Profile%20views&color=0e75b6&style=flat" alt="AdilVK007" /> </p>-->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007"alt="adilvk007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007"alt="adilvk007" /></a> </p>
 <a href=""><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007&theme=flat" alt="adilvk007" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdilVK007)](https://github.com/ryo-ma/github-profile-trophy)]-->
 
