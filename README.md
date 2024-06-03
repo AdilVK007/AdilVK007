@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdilVK007&label=Profile%20views&color=0e75b6&style=flat" alt="AdilVK007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007" alt="adilvk007" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007" alt="adilvk007" /></a> </p>
 <a href=""><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007&theme=flat" alt="adilvk007" /></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)]*/
 
 - 🔭 I’m currently working on **Python,PAWN,Javascript project**
 
