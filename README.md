@@ -22,7 +22,8 @@
 
 - ⚡ Fun fact **I am not funny**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-adil-7671a3231/)
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-adil-7671a3231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-adil-7671a3231" height="30" width="40" /></a>
 <a href="https://instagram.com/a_d_i_l_bin_azeeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_d_i_l_bin_azeez" height="30" width="40" /></a>
