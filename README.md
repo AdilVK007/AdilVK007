@@ -15,13 +15,15 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
+- 🎯 Intrested in Mechine Learning and Cyber Security
+
 - 👯 I’m looking to collaborate on **Python, JavaScript, Node.js**
 
 - 🤝 I’m looking for help with **Node.js**
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I am funny**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-adil-7671a3231/)<p align="left"><a href="https://www.linkedin.com/in/muhammed-adil-7671a3231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-adil-7671a3231" height="30" width="40" /></a>
