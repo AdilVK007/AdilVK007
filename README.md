@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&pause=1000&color=0D89F1&random=false&width=435&lines=Hey+there+%F0%9F%91%8B+I+am+Adil" alt="Typing SVG" /><h1>
 <h3 align="center">Work for passions</h3>
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/949884109549883403/1231959022282735729/Github.png-removebg-preview.png?ex=6638da3f&is=6626653f&hm=ced0aa03de860f0405dc322e4ba718b4a4aadbc12d2c16ae16e819083c4c61dc&"></h1>-->
-<h1 align="center"><img src="https://imgur.com/rd2BkLt"></h1>
+<h1 align="center"><img src="https://i.imgur.com/rd2BkLt.png"></h1>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdilVK007&label=Profile%20views&color=0e75b6&style=flat" alt="AdilVK007" /> </p>-->
 
