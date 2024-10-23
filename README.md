@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
-- ⚡ Fun fact **I am funny**
+<!--- ⚡ Fun fact **I am funny**-->
 
 ## 🌐 Socials:
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-adil-7671a3231/)-->
