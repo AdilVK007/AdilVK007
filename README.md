@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 🎯 Intrested in Mechine Learning and Cyber Security
+- 🎯 Intrested in Python Developement
 
 - 👯 I’m looking to collaborate on **Python, JavaScript, Node.js**
 
