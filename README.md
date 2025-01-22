@@ -11,7 +11,7 @@
 <!--<a href=""><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007&theme=flat" alt="adilvk007" /></a>-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AdilVK007)](https://github.com/ryo-ma/github-profile-trophy)]-->
 
-- 🔭 I’m currently working on **Python,PAWN,Javascript project**
+- 🔭 I’m currently working on **Python, Javascript project**
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
@@ -22,6 +22,8 @@
 - 🤝 I’m looking for help with **Tailwind CSS** and **JavaScript** 
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
+
+- ♥️ Seeking interships on **Python, JavaScript, CSS< HTML**
 
 <div align="center">  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  />  
