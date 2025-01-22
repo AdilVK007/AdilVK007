@@ -23,6 +23,10 @@
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
+<div align="center">  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />  
+</div>
+
 <!--- ⚡ Fun fact **I am funny**-->
 
 ## 🌐 Socials:
