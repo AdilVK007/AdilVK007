@@ -30,7 +30,7 @@
 <!--- ⚡ Fun fact **I am funny**-->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-adil-7671a3231/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-adil-7671a3231/)-->
 <!<p align="left"><a href="https://www.linkedin.com/in/muhammed-adil-7671a3231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-adil-7671a3231" height="30" width="40" /></a>
 <a href="https://instagram.com/a_d_i_l_bin_azeeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_d_i_l_bin_azeez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnLxjDIxr3tyZ9axvrJOITw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/ucnlxjdixr3tyz9axvrjoitw" height="30" width="40" /></a>
