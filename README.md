@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
--  How to reach me? [Connect](adilvkblog@gmail.com)
+- 📫 How to reach me? [Connect](adilvkblog@gmail.com)
 
 - 🤝 I’m looking for help with **Tailwind CSS** and **JavaScript** 
 
