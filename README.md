@@ -15,13 +15,11 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 🎯 Intrested in Python Developement
-
-- 👯 I’m looking to collaborate on **Python, JavaScript, Node.js**
+-  How to reach me? Connect(adilvkblog@gmail.com)
 
 - 🤝 I’m looking for help with **Tailwind CSS** and **JavaScript** 
 
-- 💬 Ask me about **Python, JavaScript, Node.js**
+- 💬 Ask me about **Python, JavaScript**
 
 - ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**
 
