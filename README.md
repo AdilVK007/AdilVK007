@@ -25,7 +25,7 @@
 
 - ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**
 
-<div align="center">  
+<div>  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  />  
 </div>
 
