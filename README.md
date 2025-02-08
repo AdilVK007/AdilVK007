@@ -11,7 +11,7 @@
 <!--<a href=""><img src="https://github-profile-trophy.vercel.app/?username=AdilVK007&theme=flat" alt="adilvk007" /></a>-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AdilVK007)](https://github.com/ryo-ma/github-profile-trophy)]-->
 
-- 🔭 I’m currently working on **Python, Javascript project**
+<!--- 🔭 I’m currently working on **Python, Javascript project**
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
@@ -21,7 +21,18 @@
 
 - 💬 Ask me about **Python, JavaScript**
 
-- ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**
+- ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**-->
+- 🔭 Currently working on: Python and JavaScript projects.
+
+- 🌱 Currently learning: Advanced Python and JavaScript concepts.
+
+- 📫 How to reach me: [Gmail](adilvkblog@gmail.com) | Connect on [LinkedIn](https://www.linkedin.com/in/muhammed-adil-7671a3231/)
+
+- 🤝 Looking for help with: Tailwind CSS and JavaScript.
+
+- 💬 Ask me about: Python, JavaScript, and web development.
+
+- ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS.
 
 <div>  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  />  
