@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Tailwind CSS** and **JavaScript** 
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python and JavaScript**
 
 - ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**-->
 - 🔭 Currently working on: Python and JavaScript projects.
