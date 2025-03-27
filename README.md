@@ -32,7 +32,7 @@
 
 - 💬 Ask me about: Python, JavaScript, and web development.
 
-- ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS.
+<!--- - ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS. -->
 
 <div>  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  />  
