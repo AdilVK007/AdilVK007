@@ -35,9 +35,8 @@
 <!--- - ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS. -->
 
 <div>  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  />  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.AdilVK007&"  /><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAdilVK007"> | <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAdilVK007&labelColor=%231e2429&countColor=%23263759&style=plastic&labelStyle=none" /></a>
 </div>
-<p>Daily visitors</P><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAdilVK007"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAdilVK007&labelColor=%231e2429&countColor=%23263759&style=plastic&labelStyle=none" /></a></p>
 
 <!--- ⚡ Fun fact **I am funny**-->
 
