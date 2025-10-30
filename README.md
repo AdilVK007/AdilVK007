@@ -30,7 +30,7 @@
 
 - 🤝 Looking for help with: Tailwind CSS and JavaScript.
 
-- 💬 Ask me about: Python, JavaScript, and web development.
+- 💬 Ask me about: Python, JavaScript, and WEB Development.
 
 <!--- - ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS. -->
 
