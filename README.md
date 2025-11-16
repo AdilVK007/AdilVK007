@@ -32,7 +32,7 @@
 
 - 💬 Ask me about: Python, JavaScript, and WEB Development.
 
-- 🔥Feature Learnings: React 
+- 🔥Feature Learnings: React & Next js 
 
 <!--- - ♥️ Seeking: Internships or trainee roles in Python, JavaScript, HTML, and CSS. -->
 <!--c-->
