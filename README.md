@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: [Gmail](adilvkblog@gmail.com) | Connect on [LinkedIn](https://www.linkedin.com/in/muhammed-adil-7671a3231/)
 
-- 🤝 Looking for help with: Tailwind CSS and JavaScript.
+- 🤝 Looking for help with: Python and JavaScript.
 
 - 💬 Ask me about: Python, JavaScript, and WEB Development.
 
