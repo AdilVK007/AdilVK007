@@ -22,7 +22,7 @@
 - 💬 Ask me about **Python and JavaScript**
 
 - ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**-->
-- 🔭 Currently working on: Python(Django) and JavaScript projects.
+- 🔭 Currently working on: Python(Django) and JavaScript projects
 
 - 🌱 Currently learning: Advanced Python and JavaScript concepts.
 
