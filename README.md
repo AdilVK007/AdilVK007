@@ -26,7 +26,7 @@
 
 - 🌱 Currently learning: Advanced Python and JavaScript concepts.
 
-- 📫 How to reach me: [Gmail](adilvkblog@gmail.com) | Connect on [LinkedIn](https://www.linkedin.com/in/muhammed-adil-7671a3231/)
+- 📫 How to reach me: [G-Mail](adilvkblog@gmail.com) | Connect on [LinkedIn](https://www.linkedin.com/in/muhammed-adil-7671a3231/)
 
 - 🤝 Looking for help with: Python and JavaScript.
 
