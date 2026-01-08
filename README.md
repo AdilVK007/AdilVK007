@@ -64,9 +64,13 @@
 
 <!--Github status-->
 # 📊 GitHub Stats:
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=AdilVK007&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdilVK007&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilVK007&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilVK007&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+-->
+
+![](https://github-readme-stats-chi-liard-87.vercel.app/api?username=AdilVK007&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 
 <!--Aditional information -->
 ### ✍️ Random Dev Quote
