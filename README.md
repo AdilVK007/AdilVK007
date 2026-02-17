@@ -45,8 +45,12 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007.visitor-badge />
 -->
 
+<!-- //link expired
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007 /> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAdilVK007">
+-->
+
 <div>  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AdilVK007 /> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAdilVK007"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAdilVK007&labelColor=%231e2429&countColor=%23263759&style=plastic&labelStyle=none" /></a> <a href="https://wakatime.com/@d5925d98-b71f-4b48-85ce-6157d08ad263"><img src="https://wakatime.com/badge/user/d5925d98-b71f-4b48-85ce-6157d08ad263.svg" alt="Total time coded since Nov 10 2025" /></a>
+<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAdilVK007&labelColor=%231e2429&countColor=%23263759&style=plastic&labelStyle=none" /></a> <a href="https://wakatime.com/@d5925d98-b71f-4b48-85ce-6157d08ad263"><img src="https://wakatime.com/badge/user/d5925d98-b71f-4b48-85ce-6157d08ad263.svg" alt="Total time coded since Nov 10 2025" /></a>
 </div>
 
 <!--- ⚡ SOCIAL LINKS-->
