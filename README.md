@@ -24,7 +24,7 @@
 - ♥️ Seeking internships/trainee on **Python, JavaScript, CSS, HTML**-->
 
 <!--- Profile Description -->
-- 🔭 Currently working on: Python(Django) and JavaScript projects
+- 🔭 Currently working on: Python(Django),React and JavaScript projects
 
 - 🌱 Currently learning: Advanced Python and JavaScript concepts
 
