@@ -32,7 +32,7 @@
 
 - 🤝 Looking for help with: Python and JavaScript.
 
-- 💬 Ask me about: Python, JavaScript, and WEB Development.
+- 💬 Ask me about: Python, JavaScript, and UI/UX.
 
 - 🔥Feature Learnings: React & React Native
 
